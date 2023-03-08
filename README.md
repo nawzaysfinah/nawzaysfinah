@@ -1,7 +1,7 @@
 ### Hi there 👋
 👋 Hi, I'm syaz
 🔭 Currently working on Gimme Quotes, a telegram bot that takes in and sends you quotes on request
-🌱 I’m currently learning Python, JavaScript, p5, React.
+🌱 I’m currently learning Python, JavaScript, p5, React. 
 
 <!--
 **nawzaysfinah/nawzaysfinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
