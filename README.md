@@ -1,4 +1,3 @@
-### Hi there 👋
 👋 Hi, I'm syaz <br/>
 🔭 Currently working on Gimme Quotes, a telegram bot that takes in and sends you quotes on request <br/>
 🌱 I’m currently learning Python, JavaScript, p5, React. <br/>
