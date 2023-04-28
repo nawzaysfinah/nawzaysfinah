@@ -1,6 +1,6 @@
 👋 Hi, I'm syaz <br/>
 🔭 Currently working on Gimme Quotes, a telegram bot that takes in and sends you quotes on request <br/>
-🌱 I’m currently working on The Odin Project. Also looking to learn Python, p5, React. <br/>
+🌱 I’m currently working on The Odin Project, working on the Full Stack Javascript path. <br/>
 
 
 <!--
