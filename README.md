@@ -2,7 +2,7 @@
 🌱 I’m currently working on The Odin Project, working on the Full Stack Javascript path. <br/>
 
 🔭 Personal Projects: <br/>
-✍️ Gimme Quotes, a telegram bot that takes in and sends you quotes on request <br/>
+✍️ Gimme Quotes, a python-based telegram bot that takes in and sends you quotes on request <br/>
 
 
 
