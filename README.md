@@ -3,6 +3,7 @@
 
 🔭 Personal Projects: <br/>
 ✍️ Gimme Quotes, a python-based telegram bot that takes in and sends you quotes on request <br/>
+🏃‍♂RCSG, an AI-driven platform for open-source running routes & guided running tours <br/>
 
 
 
