@@ -1,9 +1,13 @@
 👋 Hi, I'm syaz <br/>
-🌱 I’m currently working on The Odin Project, working on the Full Stack Javascript path. <br/>
+🌱 I’m currently an educator teaching Artificial Intelligence at the Institue of Technical Education in Singapore. <br/>
 
 🔭 Personal Projects: <br/>
 ✍️ Gimme Quotes, a python-based telegram bot that takes in and sends you quotes on request <br/>
 🏃‍♂RCSG, an AI-driven platform for open-source running routes & guided running tours <br/>
+
+🔭 Programming journey <br/>
+✍️ Learnt Front-End Web Development using The Odin Project, working on the Full Stack Javascript path. <br/>
+
 
 
 
