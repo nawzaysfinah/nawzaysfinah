@@ -1,5 +1,5 @@
 👋 Hi, I'm syaz <br/>
-🌱 I’m currently an educator teaching Artificial Intelligence at the Institue of Technical Education in Singapore. <br/>
+🌱 I’m currently an educator teaching Artificial Intelligence at the Institute of Technical Education in Singapore. <br/>
 
 🔭 Personal Projects: <br/>
 ✍️ Gimme Quotes, a python-based telegram bot that takes in and sends you quotes on request <br/>
