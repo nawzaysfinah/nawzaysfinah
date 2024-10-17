@@ -1,14 +1,15 @@
-👋 Hi, I'm syaz <br/>
-🌱 I’m currently an educator teaching Artificial Intelligence at the Institute of Technical Education in Singapore. <br/>
+👋 Hi, I'm Syaz! <br/>
+🌱 I'm currently an educator in Artificial Intelligence at the Institute of Technical Education, Singapore. <br/>
+🤔 I’m looking for help with finding internships/jobs/placements for my students
+
 
 🔭 Personal Projects: <br/>
-✍️ Gimme Quotes, a python-based telegram bot that takes in and sends you quotes on request <br/>
-🏃‍♂RCSG, an AI-driven platform for open-source running routes & guided running tours <br/>
+✍️ Gimme Quotes – A Python-based Telegram bot that fetches and sends quotes on demand. <br/>
+🏃‍♂ RCSG – An AI-driven platform offering open-source running routes and guided running tours. <br/>
+🤖 Continuously building AI Proof of Concepts (POCs) to assist people and companies of all technological readiness levels in adopting AI for their unique use cases. <br/>
 
-🔭 Programming journey <br/>
-✍️ Learnt Front-End Web Development using The Odin Project, working on the Full Stack Javascript path. <br/>
-
-
+🔭 Programming Journey: <br/>
+✍️ Learned front-end web development through The Odin Project, currently working on the Full Stack JavaScript path. <br/>
 
 
 <!--
