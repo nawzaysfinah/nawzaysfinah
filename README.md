@@ -1,15 +1,47 @@
-👋 Hi, I'm Syaz! <br/>
-🌱 I'm currently an educator in Artificial Intelligence at the Institute of Technical Education, Singapore. <br/>
-🤔 I’m looking for help with finding internships/jobs/placements for my students
+# 👋 Hi, I’m Syaz!
 
+**AI Educator | Bot Builder | Open‑source Enthusiast**
 
-🔭 Personal Projects: <br/>
-✍️ Gimme Quotes – A Python-based Telegram bot that fetches and sends quotes on demand. <br/>
-🏃‍♂ RCSG – An AI-driven platform offering open-source running routes and guided running tours. <br/>
-🤖 Continuously building AI Proof of Concepts (POCs) to assist people and companies of all technological readiness levels in adopting AI for their unique use cases. <br/>
+---
 
-🔭 Programming Journey: <br/>
-✍️ Learned front-end web development through The Odin Project, currently working on the Full Stack JavaScript path. <br/>
+## 🌱 Current Role
+I’m an **Artificial Intelligence Educator** at the Institute of Technical Education (ITE), Singapore—mentoring the next generation of AI practitioners and guiding them from theory to hands‑on POCs.
+
+## 🤝 What I’m Looking For
+I’m actively **seeking internship, job, and placement opportunities** for my students. If your company is exploring fresh AI talent, let’s connect!
+
+---
+
+## 🔭 Personal Projects
+
+- **Gimme Quotes**  
+  A Python‑based Telegram bot that fetches and delivers inspirational quotes on demand.
+
+- **RCSG (Running Course & Sight‑seeing Guide)**  
+  An AI‑driven platform offering open‑source running routes and guided audio tours for fitness enthusiasts.
+
+- **AI POCs for All**  
+  Building lightweight, adaptable AI proofs‑of‑concept to help organizations of any size kick‑start their AI journey.
+
+---
+
+## 💻 Programming Journey
+
+I began with **front‑end web development** via [The Odin Project](https://www.theodinproject.com/) and have since progressed onto the **Full Stack JavaScript** track. Along the way I’ve:
+
+- Mastered **HTML5**, **CSS3**, and **modern JavaScript** (ES6+)
+- Explored **Node.js**, **Express**, and **React**
+- Integrated **Python** for AI/ML prototyping and automation
+
+---
+
+## 📫 Let’s Connect
+
+- **Email:** syazwan_hanif@outlook.com  
+- **LinkedIn:** [linkedin.com/in/syaz](https://www.linkedin.com/in/syazwan_hanif)  
+- **Telegram:** [@gimmequotes_bot](https://t.me/gimmequotes_bot)  
+
+Feel free to reach out if you’re interested in collaborating, hiring emerging AI talent, or just swapping bot‑development war stories!  
 
 
 <!--
